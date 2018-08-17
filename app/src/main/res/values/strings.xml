@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">gates</string>
+    <string name="call_image_description">image to make a call</string>
+</resources>
